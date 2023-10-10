@@ -9,4 +9,4 @@
 4. The Nonprofessional class uses the same functions from its derived class but Nonprofessional's members are int hoursWorked, int vacationEarned, int companyYears, and double hourlyRate.
 5. The ProfEmployee class uses the derived class functiosn from Employee but has the data members, int monthSalary, int vacationDays, and  int companyYears.
 6. After the implementation of the derivied classes, created instances of the ProfEmployee class and Nonprofessional class and their own data members.
-7. After the created instances, began testing the instances to ensure that the function logic is correct based on logic.   
+7. After the created instances, began testing the instances to ensure that the function logic is correct based on logic.
