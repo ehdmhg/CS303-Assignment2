@@ -2,7 +2,7 @@
 CS303-Assignment2 Part 1:
 1. Created the SingleLinkedList class and assign the data members head, tail, and num_items to private before creating the node for member functions
 2. Created the following member functions using the class struct Node: push_front, push_back, pop_front, pop_back, front, back, empty, void insert(size_t index, const Item_Type& item), bool remove(size_t index), and size_t find(const Item_Type& item).
-
+3. After the implementation, begin part 2
 CS303-Assignment2 Part 2:
 1. Created the abstract Employee class to store name and id for the derivied classes putting them as protected members.
 2. After that, created the member functions(double calculate weeklySalary(), double calculateHealthCare(), and int calculateVacationDays()) and made them virtual functions so the derived classes, ProfEmployee and Nonprofessional, can use them but not change the functions.
